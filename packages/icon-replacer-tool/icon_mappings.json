@@ -276,5 +276,6 @@
   "person_grey_child.png": "avatar__child--125-enabled.svg",
   "icon_days_left.png": "days-left—20-enabled.svg",
   "icon_reaching_time_limit.png": "days-reaching-limit--20-enabled.svg",
-  "icon_reaching_time_limit_hover.png": "days-reaching-limit--20-enabled.svg"
+  "icon_reaching_time_limit_hover.png": "days-reaching-limit--20-enabled.svg",
+  "days-left—20-enabled.svg": "days-left-20-enabled.svg"
 }
