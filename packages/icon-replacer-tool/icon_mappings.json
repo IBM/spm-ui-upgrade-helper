@@ -278,5 +278,6 @@
   "icon_reaching_time_limit.png": "days-reaching-limit--20-enabled.svg",
   "icon_reaching_time_limit_hover.png": "days-reaching-limit--20-enabled.svg",
   "image_unsuccessful.png": "line__filled--20-enabled.svg",
-  "image_successful.png ": "done__filled--20-enabled two.svg"
+  "image_successful.png": "done__filled--20-enabled two.svg",
+  "to_do_tick.png": "done__filled--20-enabled two.svg"
 }
