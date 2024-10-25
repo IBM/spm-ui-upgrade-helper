@@ -294,5 +294,6 @@
   "icon_blu_underpayments.png": "underpayment__filled-20-enabled.svg",
   "icon_alert.png": "flag__filled-20-enabled.svg",
   "icon_blu_appealed_items.png": "appealed-items__filled--20-enabled.svg",
-  "icon_blu_good_time.png": "days-left--20-enabled.svg"
+  "icon_blu_good_time.png": "days-left--20-enabled.svg",
+  "bull_orange_10x10.gif":"reserved-task__filled-10.svg"
 }
